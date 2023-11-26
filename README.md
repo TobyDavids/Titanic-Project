@@ -7,9 +7,9 @@ For this project, I was tasked with identifying factors that contributed to surv
 The complete project documentation can be found in the ipynb file
 
 ## Data Dictionary
-Survival - Survival (0 = No; 1 = Yes). Not included in test.csv file.
-Pclass - Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
-Name - Name
+. Survival - Survival (0 = No; 1 = Yes). Not included in test.csv file.
+. Pclass - Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
+. Name - Name
 Sex - Sex
 Age - Age
 Sibsp - Number of Siblings/Spouses Aboard
